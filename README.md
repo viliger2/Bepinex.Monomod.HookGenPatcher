@@ -18,4 +18,5 @@ You may freely distribute this for any purpose. Note that MonoMod files are need
 
 * Changed BepInEx version to match Thunderstore version
 * Changed MonoMod version to match BepInEx version
+* Changed target framework to .NET Framework to match game's version (4.6.2)
 * Added post build events so MonoMod.exe and MonoMod.RuntimeDetour.HookGen.exe are renamed to .dll

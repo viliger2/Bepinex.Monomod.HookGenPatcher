@@ -355,3 +355,4 @@ LighterPatcher/libs/*.dll
 
 # Thunderstore Stuff
 Thunderstore/*.zip
+Thunderstore/BepInEx/patchers/
