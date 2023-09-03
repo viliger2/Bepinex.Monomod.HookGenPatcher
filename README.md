@@ -15,6 +15,7 @@ You may freely distribute this for any purpose. Note that MonoMod files are need
 [LighterPatcher](https://github.com/harbingerofme/LighterPatcher) which is designed to easy the load on the game when having particularily large MMHOOK files by stripping unneeded types. LighterPatcher and HookGenPatcher work in conjuction with each other to prevent multiple runs.
 
 ## Differences from main repo
+This version is designed to be used with Bomb Rush Cyberfunk.
 
 * Changed BepInEx version to match Thunderstore version
 * Changed MonoMod version to match BepInEx version
